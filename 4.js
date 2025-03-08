@@ -12,7 +12,7 @@ function secondsToMinutesSeconds(seconds) {
 
 async function getSongs() {
     try {
-        let response = await fetch("/songs.json");
+        let response = await fetch("./songs.json");
         let data = await response.json();
         return data;
     } catch (error) {
