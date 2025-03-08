@@ -1,0 +1,24 @@
+{
+    "cs": [
+        "songs/cs/Dard Chupakar.mp3",
+        "songs/cs/Dard.mp3",
+        "songs/cs/Dosti se pyar.mp3",
+        "songs/cs/Lost and Found.mp3",
+        "songs/cs/Mamu.mp3",
+        "songs/cs/Tere Bina.mp3",
+        "songs/cs/Tu Dur Reh ke.mp3"
+    ],
+    "ncs": [
+        "songs/ncs/Aye Khuda.mp3",
+        "songs/ncs/Na Bhoola Tujhe.mp3",
+        "songs/ncs/O Mahi.mp3",
+        "songs/ncs/O Rangrez.mp3",
+        "songs/ncs/Onnchi Onnchi.mp3",
+        "songs/ncs/Saya Tera.mp3"
+        
+    ],
+    "op": [
+        "songs/op/Cat.mp3",
+        "songs/op/Housebuilding Rdr 2.mp3"
+    ]
+}
